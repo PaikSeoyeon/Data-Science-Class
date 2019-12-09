@@ -1,0 +1,315 @@
+city,state,state_s,city_s
+New York,New York,newyork,newyork
+Los Angeles,California,california,losangeles
+Chicago,Illinois,illinois,chicago
+Houston,Texas,texas,houston
+Phoenix,Arizona,arizona,phoenix
+Philadelphia,Pennsylvania,pennsylvania,philadelphia
+San Antonio,Texas,texas,sanantonio
+San Diego,California,california,sandiego
+Dallas,Texas,texas,dallas
+San Jose,California,california,sanjose
+Austin,Texas,texas,austin
+Jacksonville,Florida,florida,jacksonville
+Fort Worth,Texas,texas,fortworth
+Columbus,Ohio,ohio,columbus
+San Francisco,California,california,sanfrancisco
+Charlotte,North Carolina,northcarolina,charlotte
+Indianapolis,Indiana,indiana,indianapolis
+Seattle,Washington,washington,seattle
+Denver,Colorado,colorado,denver
+Washington,District of Columbia,districtofcolumbia,washington
+Boston,Massachusetts,massachusetts,boston
+El Paso,Texas,texas,elpaso
+Detroit,Michigan,michigan,detroit
+Nashville,Tennessee,tennessee,nashville
+Portland,Oregon,oregon,portland
+Memphis,Tennessee,tennessee,memphis
+Oklahoma City,Oklahoma,oklahoma,oklahomacity
+Las Vegas,Nevada,nevada,lasvegas
+Louisville,Kentucky,kentucky,louisville
+Baltimore,Maryland,maryland,baltimore
+Milwaukee,Wisconsin,wisconsin,milwaukee
+Albuquerque,New Mexico,newmexico,albuquerque
+Tucson,Arizona,arizona,tucson
+Fresno,California,california,fresno
+Mesa,Arizona,arizona,mesa
+Sacramento,California,california,sacramento
+Atlanta,Georgia,georgia,atlanta
+Kansas City,Missouri,missouri,kansascity
+Colorado Springs,Colorado,colorado,coloradosprings
+Miami,Florida,florida,miami
+Raleigh,North Carolina,northcarolina,raleigh
+Omaha,Nebraska,nebraska,omaha
+Long Beach,California,california,longbeach
+Virginia Beach,Virginia,virginia,virginiabeach
+Oakland,California,california,oakland
+Minneapolis,Minnesota,minnesota,minneapolis
+Tulsa,Oklahoma,oklahoma,tulsa
+Arlington,Texas,texas,arlington
+Tampa,Florida,florida,tampa
+New Orleans,Louisiana,louisiana,neworleans
+Wichita,Kansas,kansas,wichita
+Cleveland,Ohio,ohio,cleveland
+Bakersfield,California,california,bakersfield
+Aurora,Colorado,colorado,aurora
+Anaheim,California,california,anaheim
+Honolulu,Hawaii,hawaii,honolulu
+Santa Ana,California,california,santaana
+Riverside,California,california,riverside
+Corpus Christi,Texas,texas,corpuschristi
+Lexington,Kentucky,kentucky,lexington
+Stockton,California,california,stockton
+Henderson,Nevada,nevada,henderson
+Saint Paul,Minnesota,minnesota,saintpaul
+St. Louis,Missouri,missouri,st.louis
+Cincinnati,Ohio,ohio,cincinnati
+Pittsburgh,Pennsylvania,pennsylvania,pittsburgh
+Greensboro,North Carolina,northcarolina,greensboro
+Anchorage,Alaska,alaska,anchorage
+Plano,Texas,texas,plano
+Lincoln,Nebraska,nebraska,lincoln
+Orlando,Florida,florida,orlando
+Irvine,California,california,irvine
+Newark,New Jersey,newjersey,newark
+Toledo,Ohio,ohio,toledo
+Durham,North Carolina,northcarolina,durham
+Chula Vista,California,california,chulavista
+Fort Wayne,Indiana,indiana,fortwayne
+Jersey City,New Jersey,newjersey,jerseycity
+St. Petersburg,Florida,florida,st.petersburg
+Laredo,Texas,texas,laredo
+Madison,Wisconsin,wisconsin,madison
+Chandler,Arizona,arizona,chandler
+Buffalo,New York,newyork,buffalo
+Lubbock,Texas,texas,lubbock
+Scottsdale,Arizona,arizona,scottsdale
+Reno,Nevada,nevada,reno
+Glendale,Arizona,arizona,glendale
+Gilbert,Arizona,arizona,gilbert
+Winston?Salem,North Carolina,northcarolina,winston?salem
+North Las Vegas,Nevada,nevada,northlasvegas
+Norfolk,Virginia,virginia,norfolk
+Chesapeake,Virginia,virginia,chesapeake
+Garland,Texas,texas,garland
+Irving,Texas,texas,irving
+Hialeah,Florida,florida,hialeah
+Fremont,California,california,fremont
+Boise[r],Idaho,idaho,boise[r]
+Richmond,Virginia,virginia,richmond
+Baton Rouge,Louisiana,louisiana,batonrouge
+Spokane,Washington,washington,spokane
+Des Moines,Iowa,iowa,desmoines
+Tacoma,Washington,washington,tacoma
+San Bernardino,California,california,sanbernardino
+Modesto,California,california,modesto
+Fontana,California,california,fontana
+Santa Clarita,California,california,santaclarita
+Birmingham,Alabama,alabama,birmingham
+Oxnard,California,california,oxnard
+Fayetteville,North Carolina,northcarolina,fayetteville
+Moreno Valley,California,california,morenovalley
+Rochester,New York,newyork,rochester
+Glendale,California,california,glendale
+Huntington Beach,California,california,huntingtonbeach
+Salt Lake City,Utah,utah,saltlakecity
+Grand Rapids,Michigan,michigan,grandrapids
+Amarillo,Texas,texas,amarillo
+Yonkers,New York,newyork,yonkers
+Aurora,Illinois,illinois,aurora
+Montgomery,Alabama,alabama,montgomery
+Akron,Ohio,ohio,akron
+Little Rock,Arkansas,arkansas,littlerock
+Huntsville,Alabama,alabama,huntsville
+Augusta,Georgia,georgia,augusta
+Port St. Lucie,Florida,florida,portst.lucie
+Grand Prairie,Texas,texas,grandprairie
+Columbus,Georgia,georgia,columbus
+Tallahassee,Florida,florida,tallahassee
+Overland Park,Kansas,kansas,overlandpark
+Tempe,Arizona,arizona,tempe
+McKinney,Texas,texas,mckinney
+Mobile,Alabama,alabama,mobile
+Cape Coral,Florida,florida,capecoral
+Shreveport,Louisiana,louisiana,shreveport
+Frisco,Texas,texas,frisco
+Knoxville,Tennessee,tennessee,knoxville
+Worcester,Massachusetts,massachusetts,worcester
+Brownsville,Texas,texas,brownsville
+Vancouver,Washington,washington,vancouver
+Fort Lauderdale,Florida,florida,fortlauderdale
+Sioux Falls,South Dakota,southdakota,siouxfalls
+Ontario,California,california,ontario
+Chattanooga,Tennessee,tennessee,chattanooga
+Providence,Rhode Island,rhodeisland,providence
+Newport News,Virginia,virginia,newportnews
+Rancho Cucamonga,California,california,ranchocucamonga
+Santa Rosa,California,california,santarosa
+Oceanside,California,california,oceanside
+Salem,Oregon,oregon,salem
+Elk Grove,California,california,elkgrove
+Garden Grove,California,california,gardengrove
+Pembroke Pines,Florida,florida,pembrokepines
+Peoria,Arizona,arizona,peoria
+Eugene,Oregon,oregon,eugene
+Corona,California,california,corona
+Cary,North Carolina,northcarolina,cary
+Springfield,Missouri,missouri,springfield
+Fort Collins,Colorado,colorado,fortcollins
+Jackson,Mississippi,mississippi,jackson
+Alexandria,Virginia,virginia,alexandria
+Hayward,California,california,hayward
+Lancaster,California,california,lancaster
+Lakewood,Colorado,colorado,lakewood
+Clarksville,Tennessee,tennessee,clarksville
+Palmdale,California,california,palmdale
+Salinas,California,california,salinas
+Springfield,Massachusetts,massachusetts,springfield
+Hollywood,Florida,florida,hollywood
+Pasadena,Texas,texas,pasadena
+Sunnyvale,California,california,sunnyvale
+Macon,Georgia,georgia,macon
+Kansas City,Kansas,kansas,kansascity
+Pomona,California,california,pomona
+Escondido,California,california,escondido
+Killeen,Texas,texas,killeen
+Naperville,Illinois,illinois,naperville
+Joliet,Illinois,illinois,joliet
+Bellevue,Washington,washington,bellevue
+Rockford,Illinois,illinois,rockford
+Savannah,Georgia,georgia,savannah
+Paterson,New Jersey,newjersey,paterson
+Torrance,California,california,torrance
+Bridgeport,Connecticut,connecticut,bridgeport
+McAllen,Texas,texas,mcallen
+Mesquite,Texas,texas,mesquite
+Syracuse,New York,newyork,syracuse
+Midland,Texas,texas,midland
+Pasadena,California,california,pasadena
+Murfreesboro,Tennessee,tennessee,murfreesboro
+Miramar,Florida,florida,miramar
+Dayton,Ohio,ohio,dayton
+Fullerton,California,california,fullerton
+Olathe,Kansas,kansas,olathe
+Orange,California,california,orange
+Thornton,Colorado,colorado,thornton
+Roseville,California,california,roseville
+Denton,Texas,texas,denton
+Waco,Texas,texas,waco
+Surprise,Arizona,arizona,surprise
+Carrollton,Texas,texas,carrollton
+West Valley City,Utah,utah,westvalleycity
+Charleston,South Carolina,southcarolina,charleston
+Warren,Michigan,michigan,warren
+Hampton,Virginia,virginia,hampton
+Gainesville,Florida,florida,gainesville
+Visalia,California,california,visalia
+Coral Springs,Florida,florida,coralsprings
+Columbia,South Carolina,southcarolina,columbia
+Cedar Rapids,Iowa,iowa,cedarrapids
+Sterling Heights,Michigan,michigan,sterlingheights
+New Haven,Connecticut,connecticut,newhaven
+Stamford,Connecticut,connecticut,stamford
+Concord,California,california,concord
+Kent,Washington,washington,kent
+Santa Clara,California,california,santaclara
+Elizabeth,New Jersey,newjersey,elizabeth
+Round Rock,Texas,texas,roundrock
+Thousand Oaks,California,california,thousandoaks
+Lafayette,Louisiana,louisiana,lafayette
+Athens,Georgia,georgia,athens
+Topeka,Kansas,kansas,topeka
+Simi Valley,California,california,simivalley
+Fargo,North Dakota,northdakota,fargo
+Norman,Oklahoma,oklahoma,norman
+Columbia,Missouri,missouri,columbia
+Abilene,Texas,texas,abilene
+Wilmington,North Carolina,northcarolina,wilmington
+Hartford,Connecticut,connecticut,hartford
+Victorville,California,california,victorville
+Pearland,Texas,texas,pearland
+Vallejo,California,california,vallejo
+Ann Arbor,Michigan,michigan,annarbor
+Berkeley,California,california,berkeley
+Allentown,Pennsylvania,pennsylvania,allentown
+Richardson,Texas,texas,richardson
+Odessa,Texas,texas,odessa
+Arvada,Colorado,colorado,arvada
+Cambridge,Massachusetts,massachusetts,cambridge
+Sugar Land,Texas,texas,sugarland
+Beaumont,Texas,texas,beaumont
+Lansing,Michigan,michigan,lansing
+Evansville,Indiana,indiana,evansville
+Rochester,Minnesota,minnesota,rochester
+Independence,Missouri,missouri,independence
+Fairfield,California,california,fairfield
+Provo,Utah,utah,provo
+Clearwater,Florida,florida,clearwater
+College Station,Texas,texas,collegestation
+West Jordan,Utah,utah,westjordan
+Carlsbad,California,california,carlsbad
+El Monte,California,california,elmonte
+Murrieta,California,california,murrieta
+Temecula,California,california,temecula
+Springfield,Illinois,illinois,springfield
+Palm Bay,Florida,florida,palmbay
+Costa Mesa,California,california,costamesa
+Westminster,Colorado,colorado,westminster
+North Charleston,South Carolina,southcarolina,northcharleston
+Miami Gardens,Florida,florida,miamigardens
+Manchester,New Hampshire,newhampshire,manchester
+High Point,North Carolina,northcarolina,highpoint
+Downey,California,california,downey
+Clovis,California,california,clovis
+Pompano Beach,Florida,florida,pompanobeach
+Pueblo,Colorado,colorado,pueblo
+Elgin,Illinois,illinois,elgin
+Lowell,Massachusetts,massachusetts,lowell
+Antioch,California,california,antioch
+West Palm Beach,Florida,florida,westpalmbeach
+Peoria,Illinois,illinois,peoria
+Everett,Washington,washington,everett
+Ventura,California,california,ventura
+Centennial,Colorado,colorado,centennial
+Lakeland,Florida,florida,lakeland
+Gresham,Oregon,oregon,gresham
+Richmond,California,california,richmond
+Billings,Montana,montana,billings
+Inglewood,California,california,inglewood
+Broken Arrow,Oklahoma,oklahoma,brokenarrow
+Sandy Springs,Georgia,georgia,sandysprings
+Jurupa Valley,California,california,jurupavalley
+Hillsboro,Oregon,oregon,hillsboro
+Waterbury,Connecticut,connecticut,waterbury
+Santa Maria,California,california,santamaria
+Boulder,Colorado,colorado,boulder
+Greeley,Colorado,colorado,greeley
+Daly City,California,california,dalycity
+Meridian,Idaho,idaho,meridian
+Lewisville,Texas,texas,lewisville
+Davie,Florida,florida,davie
+West Covina,California,california,westcovina
+League City,Texas,texas,leaguecity
+Tyler,Texas,texas,tyler
+Norwalk,California,california,norwalk
+San Mateo,California,california,sanmateo
+Green Bay,Wisconsin,wisconsin,greenbay
+Wichita Falls,Texas,texas,wichitafalls
+Sparks,Nevada,nevada,sparks
+Lakewood,New Jersey,newjersey,lakewood
+Burbank,California,california,burbank
+Rialto,California,california,rialto
+Allen,Texas,texas,allen
+El Cajon,California,california,elcajon
+Las Cruces,New Mexico,newmexico,lascruces
+Renton,Washington,washington,renton
+Davenport,Iowa,iowa,davenport
+South Bend,Indiana,indiana,southbend
+Vista,California,california,vista
+Tuscaloosa,Alabama,alabama,tuscaloosa
+Clinton,Michigan,michigan,clinton
+Edison,New Jersey,newjersey,edison
+Woodbridge,New Jersey,newjersey,woodbridge
+San Angelo,Texas,texas,sanangelo
+Kenosha,Wisconsin,wisconsin,kenosha
+Vacaville,California,california,vacaville
