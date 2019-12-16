@@ -49,8 +49,8 @@
 				<li>Excel File Read & Write & Handling</li>
 				<li>Excel Data Visualization </li>
 				<li>Database (Create, Read, Update, Delete)</li>
-				<li>Kaggle_Titanic Analysis_general</li>
-				<li>Kaggle_Titanic Analysis_advanced </li>
+				<li>[Kaggle] Titanic Analysis_general</li>
+				<li>[Kaggle] Titanic Analysis_advanced </li>
 				<li>Public Data Potal _Old building</li>
 				<li>Public Data Potal_Crime</li>
 				<li>[실습] Public Data Potal_CCTV</li>
