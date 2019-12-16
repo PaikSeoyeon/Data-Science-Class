@@ -1,4 +1,4 @@
-##  <font color='#00AAAA'>Team Project : Kick Off</font>
+# Project List
 
 <div align="left">
 <table border=1 bgcolor="#EEEEEE">
