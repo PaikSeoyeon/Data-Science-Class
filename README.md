@@ -18,8 +18,8 @@
 		<th width="150">교육시간</th>
 	</tr>
 	<tr>
-		<td class="txt_center bg_gray" >1&nbsp;</td>
-		<td class="txt_center"> <a href="1.R/">R 기본 및 통계 기본<a></td>
+		<td class="txt_center bg_gray" >1</td>
+		<td class="txt_center"> <a href="1. R/">R 기본 및 통계 기본<a></td>
 		<td>오리엔테이션 과정 소개
 			<br>R 기본 입문
 			<br>R 활용 시각화 및 데이터 처리
@@ -32,7 +32,7 @@
 	</tr>
 	<tr>
 		<td class="txt_center bg_gray" >2&nbsp;</td>
-		<td class="txt_center"><a href="2.Python/01.Python Programming Basics">파이썬 실전 프로그래밍</td>
+		<td class="txt_center"><a href="2. Python/01.Python Programming Basics">파이썬 실전 프로그래밍</td>
 		<td>파이썬 기본 & 변수
 			<br>자료형(리스트, 문자열등)
 			<br>제어문 및 반복문
@@ -52,7 +52,7 @@
 	</tr>
 	<tr>   
 		<td class="txt_center bg_gray" >4&nbsp;</td>
-		<td class="txt_center"><a href="3.Machine Learning & Deep Learning/">머신러닝 + 딥러닝(머신러닝)</td>
+		<td class="txt_center"><a href="3. Machine Learning & Deep Learning/">머신러닝 + 딥러닝(머신러닝)</td>
 		<td>머신러닝/딥러닝 이해
 			<br>머신러닝-지도학습1 (회귀, 의사결정트리 등)
 			<br>머신러닝-지도학습2 (앙상블 기법 등)
@@ -69,7 +69,7 @@
 	</tr>
 	<tr>
 		<td class="txt_center bg_gray" >6&nbsp;</td>
-		<td class="txt_center"><a href="3.Machine Learning & Deep Learning/">머신러닝 + 딥러닝(딥러닝)</td>
+		<td class="txt_center"><a href="3. Machine Learning & Deep Learning/">머신러닝 + 딥러닝(딥러닝)</td>
 		<td> 딥러닝 기본 이해 및 구현(ANN, DNN)
 			<br>딥러닝 입문 - 선형대수기본(numpy)
 			<br>CNN, RNN
