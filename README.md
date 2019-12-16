@@ -32,7 +32,7 @@
 	</tr>
 	<tr>
 		<td class="txt_center bg_gray" >2&nbsp;</td>
-		<td class="txt_center"><a href="2. Python/01.Python Programming Basics">파이썬 실전 프로그래밍</td>
+		<td class="txt_center"><a href="2. Python/01. Python Programming Basics">파이썬 실전 프로그래밍</td>
 		<td>파이썬 기본 & 변수
 			<br>자료형(리스트, 문자열등)
 			<br>제어문 및 반복문
