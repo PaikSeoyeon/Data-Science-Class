@@ -1,11 +1,11 @@
 <table>
 	<tr>
-		<th align="center">No.<th>
-		<th>Subject</th>
-		<th>Training Content</th>
+		<th width=80>No.</th>
+		<th width=350>Subject</th>
+		<th width=500>Training Content</th>
 	</tr>
 	<tr>
-		<td>1</td>
+		<td align="center">1</td>
 		<td>Python Programming Basics</td>
 		<td>
 			<ul>
@@ -16,6 +16,57 @@
 				<li>클래스 (Class)</li>
 				<li>실습하기</li>
 				<li>Python Review</li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">2</td>
+		<td>Python Packages and Modules</td>
+		<td>
+			<ul>
+				<li>FileIO Basic</li>
+				<li>FileIO OS-CMD</li>
+				<li>Module</li>
+				<li>DateTIme</li>		
+				<li>Map, Filter, Reduce</li>
+				<li>JSON Handle</li>
+				<li>Regular Expression</li>
+				<li>[실습] Regular Expression_email parsing</li>
+				<li>NumPy1</li>
+				<li>NumPy2</li>
+				<li>Pandas</li>
+				<li>MatplotLib.Pyplot</li>
+				<li>Basic Chart</li>
+				<li>Seabron</li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">3</td>
+		<td>Data Processing and Analysis</td>
+		<td>
+			<ul>
+				<li>Excel File Read & Write & Handling</li>
+				<li>Excel Data Visualization </li>
+				<li>Database (Create, Read, Update, Delete)</li>
+				<li>Kaggle_Titanic Analysis_general</li>
+				<li>Kaggle_Titanic Analysis_advanced </li>
+				<li>Public Data Potal _Old building</li>
+				<li>Public Data Potal_Crime</li>
+				<li>[실습] Public Data Potal_CCTV</li>
+				<li>Folium for Map</li>
+				<li>Seoul Stat</li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">4</td>
+		<td>Data Collecting and Web Crawling</td>
+		<td>
+			<ul>
+				<li>Web Scraping Basic</li>
+				<li>Web Crawling</li>
+				<li>Selenium</li>
 			</ul>
 		</td>
 	</tr>
