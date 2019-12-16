@@ -7,25 +7,12 @@
 - Training time : 471h
 
 ## Curriculum
-- Python Programming Basics
-- Python Packages and Modules
-- Data Processing and Analysis
-- Web Cralwling
-- Natural Language Processing
-- Machine Learning
-- Deep Learning
-- Linux
-- Hadoop
-- SQL
-
-
-<span class="edu_h3">교육<i>커리큘럼</i></span>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" class="info_d_tb02">
     <tr>
-        <th width="100" >구분</th>
-        <th>과목</th>
-        <th width="100">교육내용</th>
-		<th width="150">교육시간</th>
+        <th width="80" >구분</th>
+        <th width="280" >과목</th>
+        <th width="360">교육내용</th>
+	<th width="150">교육시간</th>
     </tr>
 		<tr>
       <td class="txt_center bg_gray" >1&nbsp;</td>
@@ -55,7 +42,7 @@
     </tr>
 		<tr>
       <td class="txt_center bg_gray" >3&nbsp;</td>
-      <td class="txt_center">"파이썬 활용
+      <td class="txt_center">파이썬 활용
 <br>빅데이터 수집 & 처리</td>
       <td>웹과 데이터의 이해
 <br>html, css, javascript 이해 
@@ -139,7 +126,7 @@
     </tr>
 		<tr>
       <td class="txt_center bg_gray" >10&nbsp;</td>
-      <td class="txt_center">분산처리 시스템 이해(하둡, NoSQL</td>
+      <td class="txt_center">분산처리 시스템 이해<br>(하둡, NoSQL)</td>
       <td>하둡 입문
 <br>하둡 프로그래밍
 <br>NoSQL 알아보기
