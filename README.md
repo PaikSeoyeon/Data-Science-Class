@@ -6,6 +6,8 @@
 - Training period : 2019-08-09 ~ 2019-11-29
 - Training time : 471h
 
+<hr>
+
 ## Curriculum
 <table width="100%" border="0" cellspacing="0" cellpadding="0" class="info_d_tb02">
     <tr>
