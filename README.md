@@ -2,9 +2,9 @@
 <img src="./images/img_main_front.jpg" width="900" height="370">
 
 ## Notice
-- Homesite : http://www.seoulit.or.kr/main/main.html
-- Training period : 2019-08-09 ~ 2019-11-29
-- Training time : 471h
+- <b>Homesite</b> : http://www.seoulit.or.kr/main/main.html
+- <b>Training period</b> : 2019-08-09 ~ 2019-11-29
+- <b>Training time</b> : 471h
 
 <hr>
 
