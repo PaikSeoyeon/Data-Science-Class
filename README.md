@@ -2,9 +2,9 @@
 <img src="./images/img_main_front.jpg" width="900" height="370">
 
 ## Notice
-- Homesite : http://www.seoulit.or.kr/main/main.html
-- Training period : 2019-08-09 ~ 2019-11-29
-- Training time : 471h
+- <b>Homesite</b> : http://www.seoulit.or.kr/main/main.html
+- <b>Training period</b> : 2019-08-09 ~ 2019-11-29
+- <b>Training time</b> : 471h
 
 <hr>
 
@@ -32,7 +32,7 @@
 	</tr>
 	<tr>
 		<td align="center">2</td>
-		<td class="txt_center"><a href="2. Python/01. Python Programming Basics">파이썬 실전 프로그래밍</td>
+		<td class="txt_center"><a href="2. Python/">파이썬 실전 프로그래밍</td>
 		<td>파이썬 기본 & 변수
 			<br>자료형(리스트, 문자열등)
 			<br>제어문 및 반복문
