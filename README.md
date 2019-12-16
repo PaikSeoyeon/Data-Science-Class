@@ -41,7 +41,7 @@
 	</tr>
 	<tr>
 		<td align="center">3</td>
-		<td class="txt_center">파이썬 활용
+		<td class="txt_center"><a href="2. Python/">파이썬 활용
 			<br>빅데이터 수집 & 처리</td>
 		<td>웹과 데이터의 이해
 			<br>html, css, javascript 이해 
