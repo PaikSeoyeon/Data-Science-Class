@@ -1,5 +1,5 @@
 # BigData Science Practical Training Course
-<img src="./images/img_main_front.jpg">
+<img src="./images/img_main_front.jpg", align="center">
 
 ## Notice
 - Homesite : http://www.seoulit.or.kr/main/main.html
