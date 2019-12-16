@@ -70,3 +70,39 @@
 			</ul>
 		</td>
 	</tr>
+	<tr>
+		<td align="center">5</td>
+		<td>Natural Language Processing</td>
+		<td>KoNLPy
+			<ul>
+				<li>NLP Overview & Setting</li>
+				<li>KoNLPy Module</li>
+				<li>[실습] KoNLPy</li>
+			</ul>
+			<br> Word Cloud
+			<ul>
+				<li>NLP WordCount - 법관련 국회의안</li>
+				<li>NLP WordCloud - 대통령연설문</li>
+			</ul>
+			<br> Gensim
+			<ul>
+				<li>Corpora_(1)</li>
+				<li>Corpora_(2)</li>
+				<li>Selenium</li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">5</td>
+		<td>Machine Learning</td>
+		<td>
+			<ul>
+				<li>Multi-Variable linear regression</li>
+				<li>Logistic classifier</li>
+				<li>Softmax Classifier</li>
+				<li>Learning rate Evaluation</li>
+			</ul>
+		</td>
+	</tr>
+</table>
+	
