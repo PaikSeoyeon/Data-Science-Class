@@ -116,7 +116,7 @@
 		<td align="center">총 49시간 </td>
 	</tr>
 	<tr>
-		<td align="center"11</td>
+		<td align="center">11</td>
 		<td class="txt_center"><a href="4. Project/">실무자/실무기업 연계 프로젝트</td>
 		<td>팀별 프로젝트 + 마무리
 			<br>기업프로젝트(인턴십/실무프로젝트)</td>
