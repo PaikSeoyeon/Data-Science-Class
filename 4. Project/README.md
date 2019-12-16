@@ -1,6 +1,6 @@
 # Project List
 
-<table border=1>
+<table>
   <tr>
     <th width="500" align="center"> Presentation </th>
     <th width="300" align="center"> Project subject </th>
