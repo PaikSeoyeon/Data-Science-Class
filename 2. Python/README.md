@@ -24,20 +24,20 @@
 		<td>Python Packages and Modules</td>
 		<td>
 			<ul>
-				<li>FileIO Basic</li>
-				<li>FileIO OS-CMD</li>
-				<li>Module</li>
-				<li>DateTIme</li>		
-				<li>Map, Filter, Reduce</li>
-				<li>JSON Handle</li>
-				<li>Regular Expression</li>
-				<li>[실습] Regular Expression_email parsing</li>
-				<li>NumPy1</li>
-				<li>NumPy2</li>
-				<li>Pandas</li>
-				<li>MatplotLib.Pyplot</li>
-				<li>Basic Chart</li>
-				<li>Seabron</li>
+				<li><a href="2. Python Packages and Modules/2-1. FileIO Basic.ipynb">FileIO Basic</a></li>
+				<li><a href="2. Python Packages and Modules/2-2. FileIO OS-CMD.ipynb">FileIO OS-CMD</a></li>
+				<li><a href="2. Python Packages and Modules/2-3. Module.ipynb">Module</a></li>
+				<li><a href="2. Python Packages and Modules/2-5. DateTIme.ipynb">DateTIme</a></li>		
+				<li><a href="2. Python Packages and Modules/2-6. Map, Filter, Reduce.ipynb">Map, Filter, Reduce</a></li>
+				<li><a href="2. Python Packages and Modules/2-7. JSON Handle.ipynb">JSON Handle</a></li>
+				<li><a href="2. Python Packages and Modules/2-8. Regular Expression .ipynb">Regular Expression</a></li>
+				<li><a href="2. Python Packages and Modules/2-8. Regular Expression_이메일파싱.ipynb">[실습] Regular Expression_email parsing</a></li>
+				<li><a href="2. Python Packages and Modules/3-1. NumPy1.ipynb">NumPy1</a></li>
+				<li><a href="2. Python Packages and Modules/3-2. NumPy2.ipynb">NumPy2</a></li>
+				<li><a href="2. Python Packages and Modules/4. Pandas.ipynb">Pandas</a></li>
+				<li><a href="2. Python Packages and Modules/5-1. MatplotLib.Pyplot.ipynb">MatplotLib.Pyplot</a></li>
+				<li><a href="2. Python Packages and Modules/5-2. Basic Chart.ipynb">Basic Chart</a></li>
+				<li><a href="2. Python Packages and Modules/5-5. Seabron.ipynb">Seabron</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -46,16 +46,16 @@
 		<td>Data Processing and Analysis</td>
 		<td>
 			<ul>
-				<li>Excel File Read & Write & Handling</li>
-				<li>Excel Data Visualization </li>
-				<li>Database (Create, Read, Update, Delete)</li>
-				<li>[Kaggle] Titanic Analysis_general</li>
-				<li>[Kaggle] Titanic Analysis_advanced </li>
-				<li>Public Data Potal _Old building</li>
-				<li>Public Data Potal_Crime</li>
-				<li>[실습] Public Data Potal_CCTV</li>
-				<li>Folium for Map</li>
-				<li>Seoul Stat</li>
+				<li><a href="3. Data Processing and Analysis/6-1. Excel File Read & Write & Handling.ipynb">Excel File Read & Write & Handling</a></li>
+				<li><a href="3. Data Processing and Analysis/6-2. Excel Data Visualization .ipynb">Excel Data Visualization </a></li>
+				<li><a href="3. Data Processing and Analysis/7. Database (Create, Read, Update, Delete).ipynb">Database (Create, Read, Update, Delete)</a></li>
+				<li><a href="3. Data Processing and Analysis/8-1. Kaggle_Titanic Analysis_general.ipynb">[Kaggle] Titanic Analysis_genera</a>l</li>
+				<li><a href="3. Data Processing and Analysis/8-2. Kaggle_Titanic Analysis_advanced .ipynb">[Kaggle] Titanic Analysis_advanced </a></li>
+				<li><a href="3. Data Processing and Analysis/9-1. Public Data Potal _Old building.ipynb">Public Data Potal _Old building</a></li>
+				<li><a href="3. Data Processing and Analysis/9-2. Public Data Potal_Crime.ipynb">Public Data Potal_Crime</a></li>
+				<li><a href="3. Data Processing and Analysis/9-3. Quiz.Public Data Potal_CCTV.ipynb">[실습] Public Data Potal_CCTV</a></li>
+				<li><a href="3. Data Processing and Analysis/10-1. Folium for Map.ipynb">Folium for Map</a></li>
+				<li><a href="3. Data Processing and Analysis/10-2. Seoul Stat.ipynb">Seoul Stat</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -64,9 +64,9 @@
 		<td>Data Collecting and Web Crawling</td>
 		<td>
 			<ul>
-				<li>Web Scraping Basic</li>
-				<li>Web Crawling</li>
-				<li>Selenium</li>
+				<li><a href="4. Data Collecting and Web Crawling/Web Scraping Basic/">Web Scraping Basic</a></li>
+				<li><a href="4. Data Collecting and Web Crawling/Web Crawling/">Web Crawling</a></li>
+				<li><a href="4. Data Collecting and Web Crawling/13-1. How to use Selenium.ipynb">Selenium</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -75,20 +75,19 @@
 		<td>Natural Language Processing</td>
 		<td>KoNLPy
 			<ul>
-				<li>NLP Overview & Setting</li>
-				<li>KoNLPy Module</li>
-				<li>[실습] KoNLPy</li>
+				<li><a href="5. Natural Language Processing/KoNLPy/14-1. NLP Overview _ Setting.ipynb">NLP Overview & Setting</a></li>
+				<li><a href="5. Natural Language Processing/KoNLPy/14-2. KoNLPy Module.ipynb">KoNLPy Module</a></li>
+				<li><a href="5. Natural Language Processing/KoNLPy/191111_(3) ; konlp.ipynb">[실습] KoNLPy</a></li>
 			</ul>
 			<br> Word Cloud
 			<ul>
-				<li>NLP WordCount - 법관련 국회의안</li>
-				<li>NLP WordCloud - 대통령연설문</li>
+				<li><a href="5. Natural Language Processing/WordCloud/15-1. NLP WordCount - 법관련 국회의안.ipynb">NLP WordCount - 법관련 국회의안</a></li>
+				<li><a href="5. Natural Language Processing/WordCloud/15-3. NLP WordCloud - 대통령연설문.ipynb">NLP WordCloud - 대통령연설문</a></li>
 			</ul>
 			<br> Gensim
 			<ul>
-				<li>Corpora_(1)</li>
-				<li>Corpora_(2)</li>
-				<li>Selenium</li>
+				<li><a href="5. Natural Language Processing/Gensim/1191111_(1) ; Gensim_Corpora.ipynb">Corpora1</a></li>
+				<li><a href="5. Natural Language Processing/Gensim/1191111_(2) ; Gensim_Corpora.ipynb">Corpora2</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -97,10 +96,10 @@
 		<td>Machine Learning</td>
 		<td>
 			<ul>
-				<li>Multi-Variable linear regression</li>
-				<li>Logistic classifier</li>
-				<li>Softmax Classifier</li>
-				<li>Learning rate Evaluation</li>
+				<li><a href="6. Machine Learning/M1-4. Multi-Variable linear regression.ipynb">Multi-Variable linear regression</a></li>
+				<li><a href="6. Machine Learning/M2-1. Logistic classifier.ipynb">Logistic classifier</a></li>
+				<li><a href="6. Machine Learning/M2-2. Softmax Classifier.ipynb">Softmax Classifier</a></li>
+				<li><a href="6. Machine Learning/M3-1. Learning rate Evaluation.ipynb">Learning rate Evaluation</a></li>
 			</ul>
 		</td>
 	</tr>
