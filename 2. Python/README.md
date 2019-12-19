@@ -10,7 +10,7 @@
 		<td>
 			<ul>
 				<li><a href="1. Python Programming Basics/01. 데이터 구조 (List & Tuple & Set & Dictionary)/">데이터 구조 </br>(List & Tuple & Set & Dictionary)</a></li>
-				<li><a href="1. Python Programming Basics/02. 프로그래밍 기본><프로그래밍 기본</li>
+				<li><a href="1. Python Programming Basics/02. 프로그래밍 기본/">프로그래밍 기본</a></li>
 				<li>제어문 (If & While & For)</li>
 				<li>함수 (Function)</li>		
 				<li>클래스 (Class)</li>
