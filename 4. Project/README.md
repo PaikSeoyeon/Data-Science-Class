@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td align="center"> <a href="유기견 실태 조사 및 감소 대책/결과 보고서_유기견 실태 조사 및 감소 방안.pdf"><img src='images/유기견 실태 조사 및 감소 방안.jpg' width=450></a> </td>
-    <td align="left"> 유기견 실태 조사 및 감소 방안 </td>
+    <td align="left"> 유기견 실태 조사 및 감소  </td>
     <td align="center"> <a href="유기견 실태 조사 및 감소 대책/Code/">[source code]</a> <br/> <a href="유기견 실태 조사 및 감소 대책/착수 보고서_유기견 실태 조사 및 감소 방안.pdf">[report]</a> </td>
   </tr>
     
