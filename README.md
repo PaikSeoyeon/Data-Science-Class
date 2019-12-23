@@ -63,7 +63,7 @@
 	</tr>
 	<tr>
 		<td align="center">5</td>
-		<td class="txt_center"><a href="4. Project/">실무 프로젝트 세미나</td>
+		<td class="txt_center"><a href="5. Special Lecture/">실무 프로젝트 세미나</td>
 		<td>실무 프로젝트 세미나</td>
 		<td align="center">총 15시간 </td>
 	</tr>
