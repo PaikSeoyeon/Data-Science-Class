@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th width="500" align="center"> Subject </th>
+    <th width="550" align="center"> Subject </th>
     <th width="600" align="center"> Contents </th>
     <th width="140" align="center"> Reference </th>
   </tr>
